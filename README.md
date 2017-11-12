@@ -18,18 +18,19 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 7. **[Learn JavaScript](#learn-javascript)**
 8. **[Learn React.js](#learn-react-js)**
 9. **[Full Stack Tutorials](#full-stack-tutorials)**
-10. **[Learn Node.js](#learn-node-js)**
-11. **[Learn Python](#learn-python)**
-12. **[Learn APIs](#learn-apis)**
-13. **[Learn Databases](#learn-databases)**
-14. **[Learn Authentication](#learn-authentication)**
-15. **[Learn Git](#learn-git)**
-16. **[Games & Challenge Websites](#games-and-challenge-websites)**
-17. **[Free Programming Books](#free-programming-books)**
-18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
-19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
-20. **[Software Developer Success Stories](#software-developer-success-stories)**
-21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
+10. **[Learn Angular 4](#learn-angular-4)**
+11. **[Learn Node.js](#learn-node-js)**
+12. **[Learn Python](#learn-python)**
+13. **[Learn APIs](#learn-apis)**
+14. **[Learn Databases](#learn-databases)**
+15. **[Learn Authentication](#learn-authentication)**
+16. **[Learn Git](#learn-git)**
+17. **[Games & Challenge Websites](#games-and-challenge-websites)**
+18. **[Free Programming Books](#free-programming-books)**
+19. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
+20. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
+21. **[Software Developer Success Stories](#software-developer-success-stories)**
+22. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
 
@@ -206,6 +207,17 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
 * [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)
 
+---
+### Learn Angular 4
+
+* Official Angular [Docs](https://angular.io)
+* Resources for learning Angular (https://angular.io/resources)
+* [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQThMU768hTZInWUqfoyTEW)
+* Maxmilan's angular bestseller angular course [[Udemy Link]]
+(https://www.udemy.com/the-complete-guide-to-angular-2/)
+* Coursetro free course (https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch)
+* Codecraft free course (https://codecraft.tv/courses/angular/quickstart/overview/)
+* Top 30 free resources to learn Angular (https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
 ---
 ### Learn Node JS
 
