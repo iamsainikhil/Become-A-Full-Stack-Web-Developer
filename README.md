@@ -212,12 +212,11 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 
 * Official Angular [Docs](https://angular.io)
 * Resources for learning Angular (https://angular.io/resources)
-* [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQThMU768hTZInWUqfoyTEW)
-* Maxmilan's angular bestseller angular course [[Udemy Link]]
-(https://www.udemy.com/the-complete-guide-to-angular-2/)
-* Coursetro free course (https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch)
-* Codecraft free course (https://codecraft.tv/courses/angular/quickstart/overview/)
-* Top 30 free resources to learn Angular (https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
+ * [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQThMU768hTZInWUqfoyTEW)
+ * [Maxmilan's bestseller angular course](https://www.udemy.com/the-complete-guide-to-angular-2/)
+ * [Coursetro](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch)
+ * [Codecraft](https://codecraft.tv/courses/angular/quickstart/overview/)
+* [Top 30 free resources to learn Angular](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
 ---
 ### Learn Node JS
 
